@@ -19,6 +19,6 @@ MyMood is built to empower individuals to take control of their emotional well-b
 
 - **Backend**: Spring Boot
 - **Frontend**: JSP (JavaServer Pages), HTML, CSS
-- **Database**: H2 (in-memory database)
+- **Database**: PostgreSQL
 - **Build Tool**: Maven
 - **Version Control**: Git & GitHub
